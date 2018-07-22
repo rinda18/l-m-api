@@ -1,4 +1,4 @@
-from bottle import run,route,response,error,request,
+from bottle import run,route,response,error,request
 from bottle import template,static_file
 from l_ms_api.MessagingClient import MessagingClient
 from l_ms_api.Tracer import Tracer
